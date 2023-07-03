@@ -7,4 +7,4 @@ can be utilized for status indication or visual feedback. Overall, this project 
 systems, utilizing ARM processors, and implementing a control system that enables precise movements and efficient operation
 
 ## Video Link
-> [Moving-Car-V2.0]()
+> [Moving-Car-V2.0](https://drive.google.com/file/d/1F0vETK0dewLjJqKIzRUAVG6O3WssU2ig/view?usp=sharing)
